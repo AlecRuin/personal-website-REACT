@@ -40,3 +40,11 @@ This project uses the MIT license
 ## How to contribute
 
 N/A
+
+## Link to deployment
+
+[Live site](https://alecruin.github.io/personal-website-REACT/)
+
+## Image of deployment
+
+![DeploymentImg](./public/graphics/screenshotofdeployment.PNG)

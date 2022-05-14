@@ -9,7 +9,9 @@ export default function AboutMe(){
             <div className="text text-color">
                 <h4>About Me</h4>
                 <p>
-                    I am Alec, a full-stack developer based in Missouri!
+                    I am Alec, a full-stack developer based in Missouri! I have been programming since 6th grade, approx 10 years from now. I started out making simple HTML sites,
+                    eventually adding CSS and JS into them. I have a strong desire to create games and have since been creating small games on Roblox. I have a thorough understanding of 
+                    OOP and algorithms but I am extremely terrible with CSS.  
                 </p>
             </div>
         </div>
