@@ -1,13 +1,6 @@
 {
   "short_name": "Alec's Portfolio",
   "name": "Alec Harvey's Portfolio",
-  "icons": [
-    {
-      "src": "./graphics/AV logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

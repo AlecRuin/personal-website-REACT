@@ -1,5 +1,6 @@
 import React from "react";
 
+//this functin simply switches the style of the hyperlinks based on the current page. When the link is clicked, it will call the ChangeCurrentPage to set the state
 function NavBar({CurrentPage, ChangeCurrentPage}){
     console.log(CurrentPage);
     return (

@@ -51,6 +51,9 @@
 .text-color{
   color: #91C7B1;
 }
+.warning-color{
+  color: #B33951;
+}
 .tertiary{
   color:#E3D081 !important;
 }
