@@ -24,7 +24,7 @@ export default function Portfolio(){
             </div>
 
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/blogpostsnapshot.png" className="card-img-top h-25 d-flex"alt="Blogpost snapshot"/>
+                <img src="./graphics/blogpostsnapshot.PNG" className="card-img-top h-25 d-flex"alt="Blogpost snapshot"/>
                 <div className="card-body h-75 p-3">
                     <p>
                         As a test of skill, I created Blog Posts. Its a full stack application using Node, Handlebars, Express, MySQL, and Node.
@@ -43,7 +43,7 @@ export default function Portfolio(){
             </div>
             
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/watchlistsnapshot.png" className="card-img-top h-25 d-flex"alt="watch list snapshot"/>
+                <img src="./graphics/watchlistsnapshot.PNG" className="card-img-top h-25 d-flex"alt="watch list snapshot"/>
                 <div className="card-body h-75 p-3">
                     <p>
                         Movie Watchlist is a simple site utilizing the Watchmode api. Upon searching a movie, the API will return all streaming options of said movie. It will 
@@ -62,7 +62,7 @@ export default function Portfolio(){
             </div>
 
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/workdayschedulersnapshot.png" className="card-img-top h-25 d-flex"alt="workday scheduler snapshot"/>
+                <img src="./graphics/workdayschedulersnapshot.PNG" className="card-img-top h-25 d-flex"alt="workday scheduler snapshot"/>
                 <div className="card-body h-75 p-3">
                     <p>
                         This is a very simple app that will log saved messages into localstorage and then color-code the blocks according to the time of day. No backend programming used.
@@ -79,7 +79,7 @@ export default function Portfolio(){
             </div>
 
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/programmingquizsnapshot.png" className="card-img-top h-25 d-flex"alt="programming quiz snapshot"/>
+                <img src="./graphics/programmingquizsnapshot.PNG" className="card-img-top h-25 d-flex"alt="programming quiz snapshot"/>
                 <div className="card-body h-75 p-3">
                     <p>
                         The programming quiz is a simple site using HTML, Javascript, and CSS. It was made back when I had 0 understanding on how Javascript works. 
@@ -96,7 +96,7 @@ export default function Portfolio(){
                 </div>   
             </div>
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/notetakersnapshot.png" className="card-img-top h-25 d-flex"alt="note taker snapshot"/>
+                <img src="./graphics/notetakersnapshot.PNG" className="card-img-top h-25 d-flex"alt="note taker snapshot"/>
                 <div className="card-body h-75 p-3">
                     <p>
                         Note Taker is a "half" stack app that uses Express. Once the user inserts a title and body for the note, it will save the info to a JSON file on the server end. 
