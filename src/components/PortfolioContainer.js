@@ -5,7 +5,7 @@ import ContactMe from "./pages/ContactMe";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 export default function PortfolioContainer(){
-    const [CurrentPage,setCurrentPage]=useState("Home")
+    const [CurrentPage,setCurrentPage]=useState("AboutMe")
     
     const RenderCurrentPage=()=>{
         switch(CurrentPage){
