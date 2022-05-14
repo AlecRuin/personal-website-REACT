@@ -60,6 +60,57 @@ export default function Portfolio(){
                     </div>
                 </div>   
             </div>
+
+            <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
+                <img src="./graphics/workdayschedulersnapshot.png" className="card-img-top h-25 d-flex"alt="Bootleg snapshot"/>
+                <div className="card-body h-75 p-3">
+                    <p>
+                        This is a very simple app that will log saved messages into localstorage and then color-code the blocks according to the time of day. No backend programming used.
+                    </p>
+                    <div className="postion-absolute start-50">
+                        <a href="https://alecruin.github.io/workday-scheduler/" target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px"}} src="./graphics/hyperlinkicon.png" alt="hyperlink icon"/>
+                        </a>
+                        <a href="https://github.com/AlecRuin/workday-scheduler"  target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px",width:"40px"}} src="./graphics/githublogo.png" alt="hyperlink icon"/>
+                        </a>
+                    </div>
+                </div>   
+            </div>
+
+            <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
+                <img src="./graphics/programmingquizsnapshot.png" className="card-img-top h-25 d-flex"alt="Bootleg snapshot"/>
+                <div className="card-body h-75 p-3">
+                    <p>
+                        The programming quiz is a simple site using HTML, Javascript, and CSS. It was made back when I had 0 understanding on how Javascript works. 
+                        It was made with pure malice. 
+                    </p>
+                    <div className="postion-absolute start-50">
+                        <a href="https://alecruin.github.io/ProgrammerQuizChallenge/" target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px"}} src="./graphics/hyperlinkicon.png" alt="hyperlink icon"/>
+                        </a>
+                        <a href="https://github.com/AlecRuin/ProgrammerQuizChallenge"  target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px",width:"40px"}} src="./graphics/githublogo.png" alt="hyperlink icon"/>
+                        </a>
+                    </div>
+                </div>   
+            </div>
+            <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
+                <img src="./graphics/notetakersnapshot.png" className="card-img-top h-25 d-flex"alt="Bootleg snapshot"/>
+                <div className="card-body h-75 p-3">
+                    <p>
+                        Note Taker is a "half" stack app that uses Express. Once the user inserts a title and body for the note, it will save the info to a JSON file on the server end. 
+                    </p>
+                    <div className="postion-absolute start-50">
+                        <a href="https://note-take-alec.herokuapp.com/notes" target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px"}} src="./graphics/hyperlinkicon.png" alt="hyperlink icon"/>
+                        </a>
+                        <a href="https://github.com/AlecRuin/Note-Taker"  target={"_blank"} rel="noreferrer">
+                            <img style={{height:"40px",width:"40px"}} src="./graphics/githublogo.png" alt="hyperlink icon"/>
+                        </a>
+                    </div>
+                </div>   
+            </div>
         </div>
     )
 }
